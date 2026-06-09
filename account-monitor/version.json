@@ -1,0 +1,9 @@
+{
+  "app": "account-monitor",
+  "name": "账号监控",
+  "version": "2.4.0",
+  "download_url": "https://github.com/364762/xjy-app-updates/releases/download/account-monitor-v2.4.0/account-monitor-2.4.0.dmg",
+  "filename": "account-monitor-2.4.0.dmg",
+  "published_at": "2026-06-09",
+  "notes": "新增 GitHub 更新功能；保留 2.3 的蓝白 UI 和视频带货状态检测。"
+}
