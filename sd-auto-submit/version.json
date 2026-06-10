@@ -1,9 +1,9 @@
 {
   "app": "sd-auto-submit",
   "name": "sd自动提交",
-  "version": "2.8.0",
-  "download_url": "https://github.com/364762/xjy-app-updates/releases/download/sd-auto-submit-v2.8.0/sd-auto-submit-2.8.0.dmg",
-  "filename": "sd-auto-submit-2.8.0.dmg",
-  "published_at": "2026-06-09",
-  "notes": "更新方式改为 GitHub version.json；安装包改为拖入 Applications 的 DMG 结构；发现新版后可下载 DMG 并后台替换安装，不再依赖 NAS 更新目录。"
+  "version": "2.9.0",
+  "download_url": "https://github.com/364762/xjy-app-updates/releases/download/sd-auto-submit-v2.9.0/sd-auto-submit-2.9.0.dmg",
+  "filename": "sd-auto-submit-2.9.0.dmg",
+  "published_at": "2026-06-10",
+  "notes": "修复新版页面下重复提交同一条任务的问题；提交点击后立即保存进度，验证超时不会重复重试同一条；优化参考图上传慢处理，延长验证等待并支持重启后复用已上传参考图。"
 }
