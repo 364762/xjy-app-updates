@@ -1,9 +1,9 @@
 {
   "app": "sd-auto-submit",
   "name": "sd自动提交",
-  "version": "2.9.0",
-  "download_url": "https://github.com/364762/xjy-app-updates/releases/download/sd-auto-submit-v2.9.0/sd-auto-submit-2.9.0.dmg",
-  "filename": "sd-auto-submit-2.9.0.dmg",
+  "version": "3.0.0",
+  "download_url": "https://github.com/364762/xjy-app-updates/releases/download/sd-auto-submit-v3.0.0/sd-auto-submit-3.0.0.dmg",
+  "filename": "sd-auto-submit-3.0.0.dmg",
   "published_at": "2026-06-10",
-  "notes": "修复新版页面下重复提交同一条任务的问题；提交点击后立即保存进度，验证超时不会重复重试同一条；优化参考图上传慢处理，延长验证等待并支持重启后复用已上传参考图。"
+  "notes": "3.0.0：新增自动生图页面，修复生图任务四张结果自动下载；下载链路支持读取 macOS 系统代理，避免 TikTok 图片 CDN 直连失败。"
 }
